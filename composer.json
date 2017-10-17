@@ -1,0 +1,12 @@
+{
+    "name": "valeriy/homework2",
+    "require": {
+        "symfony/http-foundation": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Valeriy Kolomiets",
+            "email": "vel202007@gmail.com"
+        }
+    ]
+}
