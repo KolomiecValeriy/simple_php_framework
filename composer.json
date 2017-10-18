@@ -1,7 +1,8 @@
 {
     "name": "valeriy/homework2",
     "require": {
-        "symfony/http-foundation": "^3.3"
+        "symfony/http-foundation": "^3.3",
+        "symfony/routing": "^3.3"
     },
     "authors": [
         {
